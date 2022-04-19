@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539367735406",
+    "project_id": "finalprojecttvshows",
+    "storage_bucket": "finalprojecttvshows.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539367735406:android:b371e3b54a5d7221a6a67f",
+        "android_client_info": {
+          "package_name": "com.elorenzog.finalprojecttvshows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539367735406-1b2j8litr1bl2d4jigsftm3iko9jebfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH35GHXycS_FLZ_j7IfxLSBY2RPKBr8SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539367735406-1b2j8litr1bl2d4jigsftm3iko9jebfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
